@@ -16,6 +16,8 @@ docker pull ghcr.io/xu-cheng/texlive-full:latest
 
 Step 3: Setting the VSCode Enviornment:
 
+Install the [plugin](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+
 Open the `settings.json` and add the following config:
 
 ```json
